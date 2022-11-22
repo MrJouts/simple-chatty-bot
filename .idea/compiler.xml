@@ -29,6 +29,16 @@
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-What_is_the_value_of_a_variable__1_.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-What_is_the_value_of_a_variable__2_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Correct_operations.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Extraction_of_a_character.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-N-th_symbol.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Name_Card.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Operations_and_truth.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_information_about_a_person.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_number_of_tens.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_same_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Theory.main" target="11" />
       <module name="Simple_Chatty_Bot.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

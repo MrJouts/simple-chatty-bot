@@ -11,6 +11,32 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring an immutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (1)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (2)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/The assignment operator" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/The name of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable (1)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable (2)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

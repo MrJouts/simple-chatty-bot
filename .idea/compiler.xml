@@ -10,6 +10,9 @@
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Jumps_and_returns-First_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Jumps_and_returns-Placement_of_ships.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Jumps_and_returns-Theory.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-Assignments.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Values_and_variables-Declarations.main" target="11" />
